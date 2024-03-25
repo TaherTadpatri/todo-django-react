@@ -1,5 +1,3 @@
-Below is a detailed README.md file for your GitHub Todo project, including installation instructions, screenshots, and information about the frontend and backend technologies used.
-
 ```markdown
 # Todo Application
 
@@ -7,7 +5,10 @@ This is a simple Todo application built using React for the frontend and Django 
 
 ## Screenshots
 
-[Include screenshots of your application here]
+![Screenshot 1](todologin.jpeg)
+![Screenshot 2](todoregister.jpeg)
+![Screenshot 3](todohome.jpeg)
+
 
 ## Installation
 
@@ -40,7 +41,7 @@ This is a simple Todo application built using React for the frontend and Django 
 1. Clone the repository (if not already done):
    ```bash
    git clone https://github.com/your-username/todo-app.git
-   ```
+   ``` 
 
 2. Navigate to the backend directory:
    ```bash
@@ -78,21 +79,6 @@ This is a simple Todo application built using React for the frontend and Django 
    ```
 
 8. The backend server should now be running at http://localhost:8000.
-
-
-## Screenshots
-
-[Include screenshots of your application here]
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/new-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add new feature'`)
-5. Push to the branch (`git push origin feature/new-feature`)
-6. Create a new Pull Request
 
 
 
