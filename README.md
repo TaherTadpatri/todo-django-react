@@ -2,7 +2,7 @@
 # Todo Application
 
 This is a simple Todo application built using React for the frontend and Django with Django REST Framework for the backend.
-
+```
 ## Screenshots
 
 ![Screenshot 1](todologin.jpeg)
