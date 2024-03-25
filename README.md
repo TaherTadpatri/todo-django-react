@@ -8,6 +8,7 @@ This is a simple Todo application built using React for the frontend and Django 
 ![Screenshot 1](todologin.jpeg)
 ![Screenshot 2](todoregister.jpeg)
 ![Screenshot 3](todohome.jpeg)
+![Screenshot 4](todocreate.jpeg)
 
 
 ## Installation
